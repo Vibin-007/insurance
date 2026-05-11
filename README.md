@@ -24,18 +24,6 @@ The workflow includes:
 
 ---
 
-## Project Structure
-
-insurance/
-│
-├── insurance_ml_models.ipynb
-├── requirements.txt
-├── README.md
-└── dataset/
-    └── insurance.csv
-
----
-
 ## Features
 - Data cleaning and preprocessing
 - Correlation analysis
